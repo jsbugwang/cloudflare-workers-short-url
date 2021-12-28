@@ -1,0 +1,8 @@
+name = "short"
+type = "webpack"
+
+account_id = "f5bbb1c8d1956385ea75a6a4f39e388f"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-28"

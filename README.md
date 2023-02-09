@@ -36,3 +36,5 @@ curl -d "{\"url\":\"https://jsbug.wang/\"}" "http://127.0.0.1:8787"
 ### 2. 访问短链接
 
 访问：[http://127.0.0.1:8787/QnjXCC](http://127.0.0.1:8787/QnjXCC) 会跳转到 [https://jsbug.wang/](https://jsbug.wang/) 即表示成功了。
+
+这是一个绝好的项目！
